@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zjcxDeJdmLLIgBfYQ9zSOAX3A828re9X2dg7SBY4sklSABAnV2PEGz+TO5Pi5EmGV/CfDBlkD4CfVcBJEYCDLw==",
+  "dgSpecHash": "j80SIu8nEPDhv8WdPFV220WE5G6UszLdDmXXNym1qUqrUEwEopTm+zCTyds1OecF7mHstleNirTCtBxw4/yvhA==",
   "success": true,
   "projectFilePath": "C:\\Users\\austi\\Documents\\GitHub\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\austi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.1\\microsoft.aspnetcore.mvc.razor.extensions.6.0.1.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.1\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.1.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.1\\microsoft.aspnetcore.razor.language.6.0.1.nupkg.sha512",
@@ -17,8 +18,10 @@
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.1\\microsoft.entityframeworkcore.analyzers.6.0.1.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.1\\microsoft.entityframeworkcore.design.6.0.1.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\microsoft.entityframeworkcore.relational.6.0.1.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.1\\microsoft.entityframeworkcore.sqlserver.6.0.1.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.1\\microsoft.entityframeworkcore.tools.6.0.1.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
