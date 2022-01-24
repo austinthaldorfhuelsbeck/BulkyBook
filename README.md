@@ -1,6 +1,6 @@
 # BulkyBook
 
-## (Live Preview)[https://bulkybookweb-ath.azurewebsites.net/Category]
+## [Live Preview](https://bulkybookweb-ath.azurewebsites.net/Category)
 
 Simple CRUD app with some basic validation.
 
