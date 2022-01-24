@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAU2xqnEWVpkiPH7B7qy2wUAAAAAACAAAAAAAQZgAAAAEAACAAAADVzjxij8Z82N5rql1axiEsswbHvBRlTjbJypCpQPvRHAAAAAAOgAAAAAIAACAAAAAIu0nWS7RP1EafcmdpY22ZyvvXDzSLiBhCt+j3b5yG1oAAAAAnmLYpQUmWiJn7jlYOTqisIghGk/6qBuGgyWRWveKKq2FA+EboK7CXxBGLP9YfZVXGhr9+E8zMykJIXiTX1Pm3JcmTvuhxvMUTOdPfyDVx4KGRPrtKBlgCMIXM06LB18YtW7n/kMjvqGDG+8fp1ucEtnCmrVPiIDnlwNOAj1XzgEAAAAAxDKfjUedEnkaxklPvtVBuQVsWI/fWag9LxGDU+TVO+2Wyicv0oe+rTpUnJs37HGdIiNGru57lgMLRHRbMTkqg</EncryptedPassword>
+    <History>True|2022-01-24T20:10:53.1834101Z;False|2022-01-24T12:09:44.5192863-08:00;False|2022-01-24T12:09:01.0657938-08:00;True|2022-01-24T11:52:07.0861806-08:00;False|2022-01-24T11:49:57.1741852-08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:dotnetmasteryserver-ath.database.windows.net,1433%3bInitial Catalog=dotnetmastery_db%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=DotnetMastery%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="BulkyBookWeb.Data.ApplicationDbContext">
+      <Value>Server=tcp:dotnetmasteryserver-ath.database.windows.net,1433%3bInitial Catalog=dotnetmastery_db%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=DotnetMastery%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
