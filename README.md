@@ -4,4 +4,4 @@
 
 Simple CRUD app with some basic validation.
 
-Technology Used: ASP.NET Core 6, C#, JavaScript, Bootstrap, HTML
+Technology Used: ASP.NET Core 6, C#, JavaScript, Bootstrap, HTML, Azure
